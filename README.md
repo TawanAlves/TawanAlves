@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+--> 
 
-<img src="assets/mate.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="assets/mate.jpg" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
+<h1 align="left">Tawan Alves </h1>
 <p align="left"> 
-## Hi there <br> FullStack Developer working with of Web Development. Proficient in ReactJS, VueJs, Javascript, Typescript,Python, Django, Git, HTML and CSS. Experienced using Kanban, Docker, PostgreSQL, WordPress .
+FullStack Developer working with of Web Development. Proficient in ReactJS, VueJs, Javascript, Typescript,Python, Django, Git, HTML and CSS. Experienced using Kanban, Docker, PostgreSQL, WordPress .
 </p>
 
 <p align="left">CONTACT :</p>
