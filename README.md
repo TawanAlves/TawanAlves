@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="assets/mate.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Tawan Alves, FullStack Developer working with of Web Development. Proficient in ReactJS, VueJs, Javascript, Typescript,Python, Django, Git, HTML and CSS. Experienced using Kanban, Docker, PostgreSQL, WordPress .
+## Hi there <br> FullStack Developer working with of Web Development. Proficient in ReactJS, VueJs, Javascript, Typescript,Python, Django, Git, HTML and CSS. Experienced using Kanban, Docker, PostgreSQL, WordPress .
 </p>
 
 <p align="left">CONTACT :</p>
